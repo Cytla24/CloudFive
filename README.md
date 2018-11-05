@@ -1,2 +1,3 @@
 ﻿SImple Website dev. by CLoUDGang. 
-Implelments HTML and CSS 
+Implelments HTML5, CSS3 and Javascript. 
+Utilizes Bootstrap Library and Flexbox Notation
